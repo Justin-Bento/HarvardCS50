@@ -10,3 +10,7 @@ I will complete Harvard's CS50 course over the next 12 weeks by watching one lec
 - Expected Completion: Monday, October 13th, 2025
 - Date Completed: N / A
 - Progress: Week 0 of 12
+
+## Week 00
+
+Topics covered in this program: Computer Science. Computational Thinking. Problem Solving: Inputs, Outputs. Representation: Unary, Binary, Decimal, ASCII, Unicode, RGB. Abstraction. Algorithms. Running Times. Pseudocode. Scratch: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops; Events; Threads.
