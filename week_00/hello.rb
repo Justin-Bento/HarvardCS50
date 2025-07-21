@@ -1,3 +1,3 @@
 def helloWorld
-  print "Hello World"
+  puts "Hello World"
 end
