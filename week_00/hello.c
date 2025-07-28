@@ -3,5 +3,6 @@
 
 int main(void)
 {
+  string answer = null
   printf("Hello World\n");
 }
