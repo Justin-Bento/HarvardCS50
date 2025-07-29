@@ -1,4 +1,4 @@
-yourName = "What is your name?"
+yourName = "What is your name? "
 
 def helloWorld
   puts "Hello World"
