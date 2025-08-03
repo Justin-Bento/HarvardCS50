@@ -1,0 +1,5 @@
+Define a variable called name.
+
+Use the name variablle to grab the users text. 
+
+Output the infromation from the users input.
