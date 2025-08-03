@@ -2,6 +2,7 @@ Define a variable called name.
 
 Prompt the user to enter their name into the CLI. 
 
-Capture the name and verify that it is a string. If not say sorry we need a human name. 
+Capture the name and verify. - If input is empty or only numbers/symbols → Error: "Sorry, we need a human name."  
+- Else → Store as `name`  
 
 Output the result of the users name alongside the message. "Hello, #{name}"
