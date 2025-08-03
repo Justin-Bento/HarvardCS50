@@ -1,5 +1,7 @@
 Define a variable called name.
 
-Use the name variablle to grab the users text. 
+Prompt the user to enter their name into the CLI. 
 
-Output the infromation from the users input.
+Capture the name and verify that it is a string. If not say sorry we need a human name. 
+
+Output the result of the users name alongside the message. "Hello, #{name}"
